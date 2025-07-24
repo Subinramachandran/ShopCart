@@ -1,0 +1,88 @@
+const products = [
+  {
+    id: 1,
+    name: 'Basic Tee',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/product-page-01-related-product-01.jpg',
+    rating: 4.2,
+    price: 999,
+  },
+  {
+    id: 2,
+    name: 'Basic Tee',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/product-page-01-related-product-02.jpg',
+    rating: 3.8,
+    price: 999,
+  },
+  {
+    id: 3,
+    name: 'Basic Tee',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/product-page-01-related-product-03.jpg',
+    rating: 4.5,
+    price: 999,
+  },
+  {
+    id: 4,
+    name: 'Artwork Tee',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/product-page-01-related-product-04.jpg',
+    rating: 4.0,
+    price: 1099,
+  },
+  {
+    id: 5,
+    name: 'Earthen Bottle',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/category-page-04-image-card-01.jpg',
+    rating: 4.6,
+    price: 48,
+  },
+  {
+    id: 6,
+    name: 'Nomad Tumbler',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/category-page-04-image-card-02.jpg',
+    rating: 4.1,
+    price: 35,
+  },
+  {
+    id: 7,
+    name: 'Focus Paper Refill',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/category-page-04-image-card-03.jpg',
+    rating: 4.4,
+    price: 499,
+  },
+  {
+    id: 8,
+    name: 'Machined Mechanical Pencil',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/category-page-04-image-card-04.jpg',
+    rating: 4.3,
+    price: 1099,
+  },
+  {
+    id: 9,
+    name: 'Focus Card Tray',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/category-page-04-image-card-05.jpg',
+    rating: 2.9,
+    price: 269,
+  },
+  {
+    id: 10,
+    name: 'Focus Multi-Pack',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/category-page-04-image-card-06.jpg',
+    rating: 3.8,
+    price: 169,
+  },
+  {
+    id: 11,
+    name: 'Brass Scissors',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/category-page-04-image-card-07.jpg',
+    rating: 4.8,
+    price: 255,
+  },
+  {
+    id: 12,
+    name: 'Focus Carry Pouch',
+    image: 'https://tailwindcss.com/plus-assets/img/ecommerce-images/category-page-04-image-card-08.jpg',
+    rating: 3.8,
+    price: 399,
+  },
+];
+
+export default products;
